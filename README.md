@@ -1,12 +1,15 @@
 # LICO-RFS
 
+For English Version: Click >> [Here](https://github.com/4everhope/lico-rfs/blob/main/README_EN.md) <<
+
 # 注意⚠️: 本项目包含极度危险操作, 请操作者自行承担风险, 本项目和作者及贡献者不承担任何责任!!!
 潜在风险包括但不限于: 触电⚡️, 烫伤🔥, 烧伤🔥, 有毒气体☠️, 割伤🩸
 
 ## 简介
 
-> 一个简单的示例. 把一个废旧烤箱改造成效果非常不错的回流焊设备! 用于 DIY PCB 元件焊接!
-> A simple example. Convert an old oven into a very good reflow equipment! For DIY PCB component soldering!
+一个简单的示例. 把一个废旧烤箱改造成效果非常不错的回流焊设备! 用于 DIY PCB 元件焊接!
+
+A simple example. Convert an old oven into a very good reflow equipment! For DIY PCB component soldering!
 
 ## 特性
 
