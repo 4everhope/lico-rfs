@@ -1,0 +1,67 @@
+
+# ===== macOS 系统文件 =====
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+
+# ===== Windows 系统文件 =====
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.BIN/
+
+# ===== VSCode 项目文件 =====
+.vscode/
+*.code-workspace
+
+# ===== Python 缓存 =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.p~  # 临时备份
+*.swp  # Vim 临时文件
+.venv/
+env/
+venv/
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# ===== Arduino 编译缓存 =====
+*.hex
+*.elf
+*.bin
+*.eep
+*.map
+*.d
+*.o
+*.lst
+*.obj
+*.py-gdb.py
+
+# ===== Jupyter notebook 检查点（如果你用） =====
+.ipynb_checkpoints/
+
+# ===== Git 忽略的 GitHub Actions 缓存（如果使用）=====
+.github/
+
+# ===== 压缩包等临时文件 =====
+*.zip
+*.tar
+*.gz
+*.7z
+*.rar
+
+# ===== 日志文件 =====
+*.log
+nohup.out
+
